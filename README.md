@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a C# Windows Forms application that tracks product prices by integrating with an external API (appears to be AliExpress or similar e-commerce platform). The application stores product information and price history in a SQL Server database, allowing users to monitor price changes over time.
+This is a C# Windows Forms application that tracks product prices by integrating with an external API (eBay). The application stores product information and price history in a SQL Server database, allowing users to monitor price changes over time.
 
 ## Features
 
